@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ml_deploy_fastapi.egg-info/PKG-INFO
+src/ml_deploy_fastapi.egg-info/SOURCES.txt
+src/ml_deploy_fastapi.egg-info/dependency_links.txt
+src/ml_deploy_fastapi.egg-info/requires.txt
+src/ml_deploy_fastapi.egg-info/top_level.txt
+src/mldeploy/__init__.py
+src/mldeploy/main.py
+src/mldeploy/model.py
+src/mldeploy/schemas.py
+src/mldeploy/utils.py
+tests/test_api.py

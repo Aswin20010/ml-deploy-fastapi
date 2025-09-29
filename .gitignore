@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.eggs/
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Testing / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker
+*.pid
+*.tar
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db

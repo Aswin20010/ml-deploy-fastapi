@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ml-deploy-fastapi
+Version: 0.1.0
+Summary: Serve a trained ML model with FastAPI (predict endpoint).
+Author: Aswin Tony
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: scikit-learn
+Requires-Dist: pydantic
+Requires-Dist: joblib
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: requests; extra == "dev"
+Dynamic: license-file
