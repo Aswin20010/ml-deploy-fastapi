@@ -3,13 +3,10 @@
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  
 [![FastAPI](https://img.shields.io/badge/api-FastAPI-teal.svg)](https://fastapi.tiangolo.com/)  
 [![Docker](https://img.shields.io/badge/container-Docker-blue.svg)](https://www.docker.com/)  
-[![CI](https://github.com/<your-username>/ml-deploy-fastapi/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/ml-deploy-fastapi/actions)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Serve a trained ML model with **FastAPI** and containerize it with **Docker**.  
 Includes **CI/CD pipeline** with GitHub Actions.  
-
-**Recruiter takeaway:** *“Can ship ML to production with modern SWE practices.”*  
 
 ---
 
