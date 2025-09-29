@@ -25,6 +25,8 @@ jobs:
           pip install -e '.[dev]'
 
       - name: Run tests
+        env:
+          PYTHONPATH: src
         run: pytest -q
 
   docker:
